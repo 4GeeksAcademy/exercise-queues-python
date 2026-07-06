@@ -1,0 +1,52 @@
+{
+    "gitpod": true,
+    "difficulty": "EASY",
+    "duration": 12,
+    "slug": "exercise-queues-python",
+    "template_url": null,
+    "projectType": "tutorial",
+    "title": {
+        "en": "",
+        "es": ""
+    },
+    "description": {
+        "en": "",
+        "es": ""
+    },
+    "translations": [
+        "es",
+        "en"
+    ],
+        "telemetry": {
+        "batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry?asset_id=00000"
+    },
+    "technologies": [
+        "python",
+        "oop",
+        "classes",
+        "objects",
+        "python-classes",
+        "python-oop"
+    ],
+    "video": {
+        "intro": ""
+    },
+    "grading": "incremental",
+    "localhostOnly": false,
+    "delivery": {
+        "instructions": "",
+        "formats": [
+            "url"
+        ],
+        "regex": ""
+    },
+    "editor": {
+        "version": "5.0"
+    },
+    "sharing": [
+        {
+            "en": "",
+            "es": ""
+        }
+    ]
+}
