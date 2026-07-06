@@ -6,12 +6,12 @@
     "template_url": null,
     "projectType": "tutorial",
     "title": {
-        "en": "",
-        "es": ""
+        "en": "Practice Queues in Python",
+        "es": "Practica Colas en Python"
     },
     "description": {
-        "en": "",
-        "es": ""
+        "en": "Solve 12 incremental queue exercises in Python using only the standard library.",
+        "es": "Resuelve 12 ejercicios incrementales de colas en Python usando solo la libreria estandar."
     },
     "translations": [
         "es",
@@ -22,11 +22,10 @@
     },
     "technologies": [
         "python",
-        "oop",
-        "classes",
-        "objects",
-        "python-classes",
-        "python-oop"
+        "data-structures",
+        "queues",
+        "algorithms",
+        "python-basics"
     ],
     "video": {
         "intro": ""
