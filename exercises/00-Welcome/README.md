@@ -4,9 +4,9 @@ In this project you will practice **queue** data structures through 12 increment
 
 ## Rules
 
-1. Use only native Python (standard library).
-2. Do not use external libraries.
-3. Read each exercise README first.
+1. Read the instructions for each exercise first.
+2. Use only native Python (standard library).
+3. Do not use external libraries.
 4. Implement your solution in app.py.
 5. Run tests until everything passes.
 
