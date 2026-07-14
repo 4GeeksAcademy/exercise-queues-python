@@ -25,12 +25,13 @@
         "data-structures",
         "queues",
         "algorithms",
+        
         "python-basics"
     ],
     "video": {
         "intro": ""
     },
-    "grading": "incremental",
+    "grading": "isolated",
     "localhostOnly": false,
     "delivery": {
         "instructions": "",
