@@ -1,35 +1,35 @@
 ## 03 - Dequeue Seguro
 
-## Que vas a aprender
+## Qué vas a aprender
 
-En este ejercicio vas a hacer que tu cola sea mas robusta.
-La idea es manejar casos vacios sin errores.
+En este ejercicio vas a hacer que tu cola sea más robusta.
+La idea es manejar casos vacíos sin errores.
 
-## Que debes implementar
+## Qué debes implementar
 
 Modifica `dequeue()` para que:
 
 - Quite y retorne el frente cuando hay elementos.
-- Retorne `None` cuando la cola este vacia.
+- Retorne `None` cuando la cola esté vacía.
 
-## Guia paso a paso
+## Guía paso a paso
 
-1. En `dequeue()`, primero revisa si la cola esta vacia.
-2. Si esta vacia, retorna `None`.
+1. En `dequeue()`, primero revisa si la cola está vacía.
+2. Si está vacía, retorna `None`.
 3. Si tiene elementos, usa `pop(0)` para remover y retornar el frente.
-4. Crea una cola vacia en `empty_queue`.
+4. Crea una cola vacía en `empty_queue`.
 5. Guarda en `result_on_empty` el resultado de `empty_queue.dequeue()`.
 
-## Ejemplo rapido
+## Ejemplo rápido
 
-- Cola vacia: `dequeue()` devuelve `None`.
+- Cola vacía: `dequeue()` devuelve `None`.
 - Cola con `[7, 8]`: `dequeue()` devuelve `7` y la cola queda `[8]`.
 
 ## Nota
 
-Manejar casos vacios evita que el programa se rompa en produccion.
+Manejar casos vacíos evita que el programa se rompa en producción.
 
 ## Variables requeridas
 
-- `empty_queue`: cola vacia.
-- `result_on_empty`: resultado de `dequeue()` en una cola vacia.
+- `empty_queue`: cola vacía.
+- `result_on_empty`: resultado de `dequeue()` en una cola vacía.

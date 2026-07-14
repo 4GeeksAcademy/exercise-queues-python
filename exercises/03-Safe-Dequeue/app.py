@@ -1,4 +1,4 @@
-# Escribe tu solucion aqui.
+# Escribe tu solución aquí.
 
 
 class Queue:
@@ -10,7 +10,7 @@ class Queue:
         pass
 
     def dequeue(self):
-        # TODO: si esta vacia retorna None; si no, retorna y remueve el primero.
+        # TODO: si está vacía retorna None; si no, retorna y remueve el primero.
         pass
 
     def is_empty(self):
